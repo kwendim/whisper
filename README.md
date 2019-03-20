@@ -18,11 +18,11 @@ Whisper comes with basic chat functionalities in this version. Features and basi
 
 
 ### Authors
-Kidus Mammo - 727820
-Kevin Jacob - 727600
-Mohammad Elhariry - 727451
-Ngadhnjim Plaku - 728023
-Shamim Biswas - 727228
+Kidus Mammo 
+Kevin Jacob
+Mohammad Elhariry
+Ngadhnjim Plaku
+Shamim Biswas
 
 
 Made @Aalto University.
