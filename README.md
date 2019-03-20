@@ -1,4 +1,4 @@
-#### Whisper - Chatapp project 
+# Whisper - Chatapp project 
 ### Overview
 
 Whisper is a real-time chat application that supports both one-to-one and group communication. The chat conversations must support both text messages and pictures. Additionally, the pictures shared in the chat messages are displayed in a gallery and sorted based on their features.
